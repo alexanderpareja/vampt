@@ -23,23 +23,23 @@ Clone this repository to your local machine:
 
 Ensure you have Python 3.7 or higher installed.
 
-    Install the required dependencies using pip:
+   Install the required dependencies using pip:
 
     pip install Pillow
 
 ## Usage
 
-    To use Vampt, run the following command in your terminal:
+   To use Vampt, run the following command in your terminal:
 
     python vampt.py <path-to-image> <path-to-save-location>
 
-    <path-to-image>: The path to the input image you want to process.
+   \<path-to-image\>: The path to the input image you want to process.
 
-    <path-to-save-location>: The directory where you want to save the processed image.
+   \<path-to-save-location\>: The directory where you want to save the processed image.
 
 ## Example:
 
-    python vampt.py input_image.jpg output_folder
+    python3 vampt.py ~/wallpapers/image.jpg ~/wallpapers/vampt_wallpapers/
 
 ![screenshot](https://user-images.githubusercontent.com/134826922/266882913-10d57e29-96c3-42a3-bcea-ea346ae99831.png)
 ![screenshot](https://user-images.githubusercontent.com/134826922/266882919-c02f80b9-ccea-4900-99d2-83c504bfc9f1.png)
