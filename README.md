@@ -1,15 +1,4 @@
-# ___    _________ ______  ___________ ________
-# __ |  / /___    |___   |/  /___  __ \___  __/
-# __ | / / __  /| |__  /|_/ / __  /_/ /__  /   
-# __ |/ /  _  ___ |_  /  / /  _  ____/ _  /    
-# _____/   /_/  |_|/_/  /_/   /_/      /_/                                                  
-
-# +---------------------------------------------------------+
-# |	    Author: Alexander Pareja                            |
-# |	    File: vampt.py                                      |
-# |     GitHub: https://github.com/alexanderpareja/vampt    |
-# |	    Contact: ohalex.wtf                                 |
-# +---------------------------------------------------------+ 
+ ## VAMPT - Dracula Wallpaper Tool                                             
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Pillow Version](https://img.shields.io/badge/Pillow-8.3.2-blue)
@@ -24,13 +13,13 @@ Vampt is a command-line tool designed to convert images into black and white pho
 
 ## Installation
 
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
 
     git clone https://github.com/username/vampt.git
 
-   cd vampt
+    cd vampt
 
-2. Ensure you have Python 3.7 or higher installed.
+Ensure you have Python 3.7 or higher installed.
 
     Install the required dependencies using pip:
 
