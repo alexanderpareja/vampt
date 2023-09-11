@@ -1,4 +1,6 @@
- ## VAMPT - Dracula Wallpaper Tool                                             
+ ## VAMPT - Dracula Wallpaper Tool
+
+ ![screenshot](https://user-images.githubusercontent.com/134826922/266882902-9bb83ae7-5e41-4c96-b4a8-aac6459d0559.png)
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Pillow Version](https://img.shields.io/badge/Pillow-8.3.2-blue)
@@ -8,7 +10,7 @@ Vampt is a command-line tool designed to convert images into black and white pho
 ## Features
 
 - Converts any image type to black and white.
-- Applies a Dracula dark theme color filter (#282a36).
+- Applies a Dracula dark theme color filter.
 - Supports a wide range of image formats.
 
 ## Installation
@@ -39,7 +41,8 @@ Ensure you have Python 3.7 or higher installed.
 
     python vampt.py input_image.jpg output_folder
 
-
+![screenshot](https://user-images.githubusercontent.com/134826922/266882913-10d57e29-96c3-42a3-bcea-ea346ae99831.png)
+![screenshot](https://user-images.githubusercontent.com/134826922/266882919-c02f80b9-ccea-4900-99d2-83c504bfc9f1.png)
 
 
 
