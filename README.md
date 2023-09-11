@@ -15,7 +15,7 @@ Vampt is a command-line tool designed to convert images into black and white pho
 
 Clone this repository to your local machine:
 
-    git clone https://github.com/username/vampt.git
+    git clone https://github.com/alexanderpareja/vampt.git
 
     cd vampt
 
