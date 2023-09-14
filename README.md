@@ -5,7 +5,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Pillow Version](https://img.shields.io/badge/Pillow-8.3.2-blue)
 
-Vampt is a command-line tool designed to convert images into black and white photos with a Dracula dark theme. It applies a color filter using the Dracula color scheme over the grayscale image, resulting in a stylish and aesthetic effect for Dracula themed environments.
+Vampt is a command-line tool designed to convert images into black and white photos with a Dracula dark theme. It applies a filter using the Dracula background color #282a36 over the grayscale image, resulting in a stylish and aesthetic effect for Dracula themed environments.
 
 ## Features
 
